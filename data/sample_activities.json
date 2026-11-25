@@ -1,0 +1,21 @@
+[
+    {
+        "activity_id": 1,
+        "sport": "running",
+        "start_time": "2026-11-24T12:00:00",
+        "duration_minutes": 23,
+        "distance_miles": 2.5,
+        "calories": 337,
+        "avg_hr": 138
+    },
+    {
+        "activity_id": 2,
+        "sport": "strength",
+        "start_time": "2026-11-24T12:24:00",
+        "duration_minutes": 30,
+        "distance_miles": 0,
+        "calories": 250,
+        "avg_hr": 111,
+        "volume_lbs": 11567
+    }
+]
